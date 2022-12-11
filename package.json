@@ -4,5 +4,11 @@
         "backend:install": "cd reactnd-contacts-server && npm install",
         "frontend:build": "cd reactnd-contacts-complete && npm run build",
         "backend:build": "cd reactnd-contacts-server && npm run build"
-    }
+    },
+    "name": "udacity",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:mohamed-abdel-mohsen/circleci-test.git",
+    "author": "<moh.mohsen8074@gmail.com>",
+    "license": "MIT"
 }
